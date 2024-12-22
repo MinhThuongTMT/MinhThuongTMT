@@ -14,6 +14,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
 
 ### 🧰 Tools & Frameworks:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
@@ -26,9 +27,36 @@
 ![ESP8266](https://img.shields.io/badge/-ESP8266-006FBA?style=for-the-badge)
 ![ESP32](https://img.shields.io/badge/-ESP32-003B57?style=for-the-badge)
 
-### 🖥️ Operating Systems:
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+---
+
+## 🌟 Featured Projects
+
+### 🎄 Festive Projects:
+- 🎅 [Merry_Christmas](https://github.com/MinhThuongTMT/Merry_Christmas): CSS-based Christmas-themed project.
+- 🎆 [HappyNewYear_2025](https://github.com/MinhThuongTMT/HappyNewYear_2025): JavaScript-powered New Year celebration project.
+- 🌲 [CayThongNoel](https://github.com/MinhThuongTMT/caythongnoel): Full code for a Christmas tree (2024).
+
+### 🕹️ Games & Fun:
+- 🐍 [Snake_game](https://github.com/MinhThuongTMT/Snake_game): Python implementation of the classic snake game.
+
+### 🧮 Tools & Utilities:
+- 🖩 [Casio_calculator](https://github.com/MinhThuongTMT/Casio_calculator): A Python-based calculator.
+- ✋ [OpenCv_Finger](https://github.com/MinhThuongTMT/OpenCv_Finger): Hand gesture recognition using OpenCV.
+
+### 🌐 Web Development:
+- 🌟 [MyWeb](https://github.com/MinhThuongTMT/MyWeb): HTML project showcasing web design skills.
+- 🔐 [web_login_signup](https://github.com/MinhThuongTMT/web_login_signup): User authentication system.
+- 🌍 [Web_TUIOT](https://github.com/MinhThuongTMT/Web_TUIOT): HTML-based UI project.
+- 🎨 [Website_Profile](https://github.com/MinhThuongTMT/Website_Profile): Personal profile website using CSS.
+- 🎥 [Slide_picture](https://github.com/MinhThuongTMT/Slide_picture): Image slider for websites.
+- 🔦 [Web_dark-mode](https://github.com/MinhThuongTMT/Web_dark-mode): Toggleable dark mode project.
+- 🇻🇳🇺🇸 [Web_VN-EN](https://github.com/MinhThuongTMT/Web_VN-EN): Multi-language website.
+
+### 🧑‍🔬 Research & IoT:
+- 🌾 [Project_SmartFarm](https://github.com/MinhThuongTMT/Project_SmartFarm): IoT smart farm project.
+- 📱 [App_Healthy](https://github.com/MinhThuongTMT/App_Healthy): Flutter app for health monitoring.
+- ⚙️ [All_CodeProject](https://github.com/MinhThuongTMT/All_CodeProject): Research and development of health monitoring devices.
+- 🌱 [smart_farm](https://github.com/MinhThuongTMT/smart_farm): Smart farm UI using CSS.
 
 ---
 
@@ -44,22 +72,12 @@
 
 ---
 
-## 🌟 Featured Projects
-Here are some of my favorite and featured projects:
-
-- 🔒 [Web Login & Signup](https://github.com/MinhThuongTMT/web_login_signup): A responsive user authentication system using HTML, CSS, and JavaScript.
-- 🌐 [Dark Mode Web](https://github.com/MinhThuongTMT/Web_dark-mode): Modern web interface with toggleable dark mode.
-- 📊 [Health Monitoring Device](https://github.com/MinhThuongTMT/All_CodeProject): IoT-based wearable device to measure heart rate, SpO2, and temperature.
-- 📷 [Slide Picture Gallery](https://github.com/MinhThuongTMT/Slide_picture): A sleek image slider built with HTML and CSS.
-
----
-
 ## 🤝 Connect with Me
 
 - 🌐 **Portfolio Website:** *Coming Soon!*
 - 💼 **LinkedIn:** [Tran Minh Thuong](https://www.linkedin.com)
-- 📧 **Email:** tranminhthuong08082003@gmail.com
-- 🌍 **Facebook:** [Tran Minh Thuong](https://www.facebook.com/trannminh.thuongg)
+- 📧 **Email:** tranminhthuong.tmt@gmail.com
+- 🌍 **Facebook:** [Facebook Profile](https://www.facebook.com/trannminh.thuongg)
 
 ---
 
