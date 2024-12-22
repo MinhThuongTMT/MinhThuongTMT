@@ -46,7 +46,6 @@
 ### 🌐 Web Development:
 - 🌟 [MyWeb](https://github.com/MinhThuongTMT/MyWeb): HTML project showcasing web design skills.
 - 🔐 [web_login_signup](https://github.com/MinhThuongTMT/web_login_signup): User authentication system.
-- 🌍 [Web_TUIOT](https://github.com/MinhThuongTMT/Web_TUIOT): HTML-based UI project.
 - 🎨 [Website_Profile](https://github.com/MinhThuongTMT/Website_Profile): Personal profile website using CSS.
 - 🎥 [Slide_picture](https://github.com/MinhThuongTMT/Slide_picture): Image slider for websites.
 - 🔦 [Web_dark-mode](https://github.com/MinhThuongTMT/Web_dark-mode): Toggleable dark mode project.
