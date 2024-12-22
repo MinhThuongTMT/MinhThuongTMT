@@ -58,8 +58,8 @@ Here are some of my favorite and featured projects:
 
 - 🌐 **Portfolio Website:** *Coming Soon!*
 - 💼 **LinkedIn:** [Tran Minh Thuong](https://www.linkedin.com)
-- 📧 **Email:** tranminhthuong.tmt@gmail.com
-- 🌍 **Facebook:** [Facebook Profile](https://www.facebook.com/tranminh.thuongg)
+- 📧 **Email:** tranminhthuong08082003@gmail.com
+- 🌍 **Facebook:** [Tran Minh Thuong](https://www.facebook.com/trannminh.thuongg)
 
 ---
 
