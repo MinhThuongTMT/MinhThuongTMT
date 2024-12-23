@@ -62,12 +62,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhThuongTMT&show_icons=true&theme=radical" alt="MinhThuongTMT's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhThuongTMT&show_icons=true&theme=radical&hide_title=true" alt="MinhThuongTMT's GitHub Stats" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhThuongTMT&theme=radical" alt="GitHub Streak" height="180px"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhThuongTMT&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhThuongTMT&layout=compact&theme=radical&card_width=320" alt="Top Languages" height="180px"/>
 </p>
+
 
 ---
 
