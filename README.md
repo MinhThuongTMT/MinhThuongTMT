@@ -11,8 +11,6 @@
   <img src="https://i.pinimg.com/originals/31/6a/6a/316a6a5e4d132f021ab764144537b06c.gif" width="350"/>
 </p>
 
----
-
 🚀 *IoT Embedded Software Engineer | Web Developer | AIoT Researcher*  
 🎯 Turning real-world problems into smart solutions using **Embedded Systems**, **AI**, and **Fullstack Development**
 
