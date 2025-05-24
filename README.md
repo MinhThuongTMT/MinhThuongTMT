@@ -92,10 +92,10 @@
 
 ## 🔗 Connect with Me
 
-- 🌐 **Website:** [myweb-tmt.vercel.app](https://tmtek.vercel.app/)
+- 🌐 **Website:** [Tran Minh Thuong](https://tmtek.vercel.app/)
 - 💼 **LinkedIn:** [Tran Minh Thuong](https://www.linkedin.com)
 - 📧 **Email:** tranminhthuong08082003@gmail.com
-- 🌍 **Facebook:** [Facebook Profile](https://www.facebook.com/trannminh.thuongg)
+- 🌍 **Facebook:** [Trần Minh Thương](https://www.facebook.com/trannminh.thuongg)
 
 ---
 
