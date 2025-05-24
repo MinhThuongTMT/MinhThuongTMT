@@ -5,12 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
-  <img src="https://i.pinimg.com/originals/31/6a/6a/316a6a5e4d132f021ab764144537b06c.gif" width="350"/>
+  <!-- AIoT-related animated GIF -->
+  <img src="https://media.giphy.com/media/UQZ2Z4p2V7rSoWtvwr/giphy.gif" width="500" alt="AIoT GIF"/>
 </p>
 
-🚀 *IoT Embedded Software Engineer | Web Developer | AIoT Researcher*  
-🎯 Turning real-world problems into smart solutions using **Embedded Systems**, **AI**, and **Fullstack Development**
+<p align="center">
+  🚀 <strong>IoT Embedded Software Engineer</strong> | <strong>Web Developer</strong> | <strong>AIoT Researcher</strong>  
+</p>
+
+<p align="center">
+  🎯 Turning real-world problems into smart solutions using <strong>Embedded Systems</strong>, <strong>Artificial Intelligence</strong>, and <strong>Fullstack Development</strong>
+</p>
 
 ---
 
