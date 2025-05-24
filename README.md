@@ -1,8 +1,14 @@
 # 👨‍💻 Tran Minh Thuong (MinhThuongTMT)  
 
-🌟 **Welcome to my GitHub Profile!**  
-🚀 Passionate about **IoT Embedded Programming**, **Web Development**, and **AI Solutions**.  
-🌍 "Turning ideas into reality, one line of code at a time."
+<h1 align="center">
+  👋 Welcome to <span style="color:#007ACC;">MinhThuongTMT's GitHub</span> 🚀
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;IoT+%7C+AI+%7C+Embedded+Developer;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+</p>
+
+---
 
 ---
 
