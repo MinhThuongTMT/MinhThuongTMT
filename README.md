@@ -5,15 +5,14 @@
 </p>
 
 <p align="center">
-  <!-- AIoT-related animated GIF -->
-  <img src="https://media.giphy.com/media/UQZ2Z4p2V7rSoWtvwr/giphy.gif" width="500" alt="AIoT GIF"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="500" alt="IoT Embedded Systems GIF"/>
 </p>
 
-<p align="center">
+<p align="left">
   🚀 <strong>IoT Embedded Software Engineer</strong> | <strong>Web Developer</strong> | <strong>AIoT Researcher</strong>  
 </p>
 
-<p align="center">
+<p align="left">
   🎯 Turning real-world problems into smart solutions using <strong>Embedded Systems</strong>, <strong>Artificial Intelligence</strong>, and <strong>Fullstack Development</strong>
 </p>
 
