@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
-  <img src="https://i.pinimg.com/originals/31/6a/6a/316a6a5e4d132f021ab764144537b06c.gif" width="350"/>
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Embedded Programming GIF" />
+  <img src="https://i.pinimg.com/originals/31/6a/6a/316a6a5e4d132f021ab764144537b06c.gif" width="350" alt="IoT Animation GIF" />
 </p>
 
 <p align="left">
