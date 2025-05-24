@@ -8,10 +8,6 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="IoT Animation" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350" alt="Embedded System Animation" />
-</div>
-
 <p align="left">
   🚀 <strong>IoT Embedded Software Engineer</strong> | <strong>Web Developer</strong> | <strong>AIoT Researcher</strong>  
 </p>
