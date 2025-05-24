@@ -1,7 +1,8 @@
-# 👋 Hello, I'm **Tran Minh Thuong** (a.k.a. MinhThuongTMT)  
+# 👨‍💻 Tran Minh Thuong (MinhThuongTMT)  
 
-🚀 *IoT Embedded Software Engineer | Web Developer | AIoT Researcher*  
-🎯 Turning real-world problems into smart solutions using **Embedded Systems**, **AI**, and **Fullstack Development**
+🌟 **Welcome to my GitHub Profile!**  
+🚀 Passionate about **IoT Embedded Programming**, **Web Development**, and **AI Solutions**.  
+🌍 "Turning ideas into reality, one line of code at a time."
 
 ---
 
