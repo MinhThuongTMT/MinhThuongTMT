@@ -73,25 +73,29 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🌟 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhThuongTMT&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhThuongTMT&theme=tokyonight&hide_border=true" height="170px"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhThuongTMT&show_icons=true&theme=radical&hide_title=true" alt="MinhThuongTMT's GitHub Stats" height="180px"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhThuongTMT&theme=radical" alt="MinhThuongTMT's GitHub Streak" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhThuongTMT&layout=compact&theme=tokyonight&hide_border=true"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhThuongTMT&layout=compact&theme=radical&card_width=320" alt="Top Languages" height="180px"/>
 </p>
 
 ---
 
 ## 🔗 Connect with Me
 
-- 🌐 Website: [myweb-tmt.vercel.app](https://tmtek.vercel.app/)
-- 📧 Email: tranminhthuong08082003@gmail.com
-- 📘 Facebook: [fb.com/trannminh.thuongg](https://facebook.com/trannminh.thuongg)
-- 💼 LinkedIn: *(updating...)*
+- 🌐 **Website:** [myweb-tmt.vercel.app](https://tmtek.vercel.app/)
+- 💼 **LinkedIn:** [Tran Minh Thuong](https://www.linkedin.com)
+- 📧 **Email:** tranminhthuong08082003@gmail.com
+- 🌍 **Facebook:** [Facebook Profile](https://www.facebook.com/trannminh.thuongg)
 
 ---
 
