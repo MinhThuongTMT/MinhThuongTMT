@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="500" alt="IoT Embedded Systems GIF"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+  <img src="https://i.pinimg.com/originals/31/6a/6a/316a6a5e4d132f021ab764144537b06c.gif" width="350"/>
 </p>
 
 <p align="left">
