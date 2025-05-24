@@ -4,10 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Embedded Programming GIF" style="margin-right:20px;" />
-  <img src="https://i.pinimg.com/originals/31/6a/6a/316a6a5e4d132f021ab764144537b06c.gif" width="350" alt="IoT Animation GIF" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="IoT Animation" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350" alt="Embedded System Animation" />
+</div>
 
 <p align="left">
   🚀 <strong>IoT Embedded Software Engineer</strong> | <strong>Web Developer</strong> | <strong>AIoT Researcher</strong>  
